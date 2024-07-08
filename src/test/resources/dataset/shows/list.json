@@ -1,0 +1,241 @@
+{
+  "shows": [
+    {
+      "id": 39484,
+      "thetvdb_id": 417223,
+      "title": "Mon petit renne",
+      "seasons": "1",
+      "episodes": "7",
+      "followers": "7869",
+      "creation": "2024",
+      "poster": "https://pictures.betaseries.com/fonds/poster/20780685d4de29430c0ff954a06ca244.jpg",
+      "platforms": {
+        "svods": [
+          {
+            "id": 1,
+            "name": "Netflix",
+            "tag": null,
+            "color": "#000000",
+            "link_url": "https://www.betaseries.com/link/39484/1/us",
+            "available": {
+              "last": 1
+            },
+            "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+          }
+        ],
+        "svod": {
+          "id": 1,
+          "name": "Netflix",
+          "tag": null,
+          "color": "#000000",
+          "link_url": "https://www.betaseries.com/link/39484/1/us",
+          "available": {
+            "last": 1
+          },
+          "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+        }
+      },
+      "seasons_details": [
+        {
+          "number": 1,
+          "episodes": 7
+        }
+      ],
+      "genres": {
+        "Drama": "Drame",
+        "Mini-Series": "Mini-série"
+      }
+    },
+    {
+      "id": 35552,
+      "thetvdb_id": 431798,
+      "title": "Fiasco (2024)",
+      "seasons": "1",
+      "episodes": "7",
+      "followers": "7588",
+      "creation": "2024",
+      "poster": "https://pictures.betaseries.com/fonds/poster/379c0715ca3cc56ba77875642d1ea94c.jpg",
+      "platforms": {
+        "svods": [
+          {
+            "id": 1,
+            "name": "Netflix",
+            "tag": null,
+            "color": "#000000",
+            "link_url": "https://www.betaseries.com/link/35552/1/us",
+            "available": {
+              "last": 1
+            },
+            "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+          }
+        ],
+        "svod": {
+          "id": 1,
+          "name": "Netflix",
+          "tag": null,
+          "color": "#000000",
+          "link_url": "https://www.betaseries.com/link/35552/1/us",
+          "available": {
+            "last": 1
+          },
+          "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+        }
+      },
+      "seasons_details": [
+        {
+          "number": 1,
+          "episodes": 7
+        }
+      ],
+      "genres": {
+        "Comedy": "Comédie"
+      }
+    },
+    {
+      "id": 30703,
+      "thetvdb_id": 411959,
+      "title": "Le Problème à 3 corps",
+      "seasons": "1",
+      "episodes": "19",
+      "followers": "13616",
+      "creation": "2024",
+      "poster": "https://pictures.betaseries.com/fonds/poster/8c841b7d4d6983e374402a9d736bd9ea.jpg",
+      "platforms": {
+        "svods": [
+          {
+            "id": 1,
+            "name": "Netflix",
+            "tag": null,
+            "color": "#000000",
+            "link_url": "https://www.betaseries.com/link/30703/1/us",
+            "available": {
+              "last": 1
+            },
+            "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+          }
+        ],
+        "svod": {
+          "id": 1,
+          "name": "Netflix",
+          "tag": null,
+          "color": "#000000",
+          "link_url": "https://www.betaseries.com/link/30703/1/us",
+          "available": {
+            "last": 1
+          },
+          "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+        }
+      },
+      "seasons_details": [
+        {
+          "number": 1,
+          "episodes": 17
+        }
+      ],
+      "genres": {
+        "Adventure": "Aventure",
+        "Drama": "Drame",
+        "Fantasy": "Fantastique",
+        "Mystery": "Mystère",
+        "Science Fiction": "Science-fiction",
+        "Thriller": "Thriller"
+      }
+    },
+    {
+      "id": 38683,
+      "thetvdb_id": 433159,
+      "title": "Anthracite",
+      "seasons": "1",
+      "episodes": "6",
+      "followers": "4454",
+      "creation": "2024",
+      "poster": "https://pictures.betaseries.com/fonds/poster/a3425c915086a896a30e3d64803c4ea4.jpg",
+      "platforms": {
+        "svods": [
+          {
+            "id": 1,
+            "name": "Netflix",
+            "tag": null,
+            "color": "#000000",
+            "link_url": "https://www.betaseries.com/link/38683/1/us",
+            "available": {
+              "last": 1
+            },
+            "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+          }
+        ],
+        "svod": {
+          "id": 1,
+          "name": "Netflix",
+          "tag": null,
+          "color": "#000000",
+          "link_url": "https://www.betaseries.com/link/38683/1/us",
+          "available": {
+            "last": 1
+          },
+          "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+        }
+      },
+      "seasons_details": [
+        {
+          "number": 1,
+          "episodes": 6
+        }
+      ],
+      "genres": {
+        "Drama": "Drame",
+        "Mini-Series": "Mini-série",
+        "Thriller": "Thriller"
+      }
+    },
+    {
+      "id": 37402,
+      "thetvdb_id": 426845,
+      "title": "The Gentlemen",
+      "seasons": "1",
+      "episodes": "8",
+      "followers": "9578",
+      "creation": "2024",
+      "poster": "https://pictures.betaseries.com/fonds/poster/2265c67648b5fa2f1f1034eff3215eba.jpg",
+      "platforms": {
+        "svods": [
+          {
+            "id": 1,
+            "name": "Netflix",
+            "tag": null,
+            "color": "#000000",
+            "link_url": "https://www.betaseries.com/link/37402/1/us",
+            "available": {
+              "last": 1
+            },
+            "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+          }
+        ],
+        "svod": {
+          "id": 1,
+          "name": "Netflix",
+          "tag": null,
+          "color": "#000000",
+          "link_url": "https://www.betaseries.com/link/37402/1/us",
+          "available": {
+            "last": 1
+          },
+          "logo": "https://pictures.betaseries.com/platforms/1.jpg"
+        }
+      },
+      "seasons_details": [
+        {
+          "number": 1,
+          "episodes": 8
+        }
+      ],
+      "genres": {
+        "Action": "Action",
+        "Crime": "Crime",
+        "Drama": "Drame"
+      }
+    }
+  ],
+  "locale": "fr",
+  "errors": []
+}
